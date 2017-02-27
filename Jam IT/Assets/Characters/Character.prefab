@@ -689,6 +689,7 @@ GameObject:
   m_Component:
   - component: {fileID: 224719531537038778}
   - component: {fileID: 222814442772669626}
+  - component: {fileID: 131836288337452498}
   m_Layer: 0
   m_Name: Root_M
   m_TagString: Untagged
@@ -1841,6 +1842,25 @@ LineRenderer:
     alignment: 0
     textureMode: 0
   m_UseWorldSpace: 1
+--- !u!131 &131836288337452498
+GUITexture:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1857236777867632}
+  m_Enabled: 1
+  m_Texture: {fileID: 0}
+  m_Color: {r: 0, g: 0, b: 0, a: 0.5}
+  m_PixelInset:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0
+    height: 0
+  m_LeftBorder: 0
+  m_RightBorder: 0
+  m_TopBorder: 0
+  m_BottomBorder: 0
 --- !u!136 &136001764823995546
 CapsuleCollider:
   m_ObjectHideFlags: 1
